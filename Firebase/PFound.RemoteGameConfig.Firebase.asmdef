@@ -1,0 +1,19 @@
+{
+    "name": "PFound.RemoteGameConfig.Firebase",
+    "rootNamespace": "PFound.RemoteGameConfig.Firebase",
+    "references": [
+        "PFound.RemoteGameConfig.Core",
+        "PFound.RemoteGameConfig"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "PFOUND_FIREBASE"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

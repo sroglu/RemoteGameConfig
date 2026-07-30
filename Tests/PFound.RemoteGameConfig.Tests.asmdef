@@ -1,0 +1,24 @@
+{
+    "name": "PFound.RemoteGameConfig.Tests",
+    "rootNamespace": "PFound.RemoteGameConfig.Tests",
+    "references": [
+        "PFound.RemoteGameConfig",
+        "PFound.RemoteGameConfig.Core",
+        "PFound.RemoteResourceCache.Core"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
